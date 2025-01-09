@@ -1,4 +1,2 @@
-# JBK-Project
-This is my first git repository
-<br>
-Author- sainath waghmare
+Hibernate one-by-one mapping
+
